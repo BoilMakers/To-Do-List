@@ -1,0 +1,9 @@
+/* Hide Bullet Points */
+ul 
+  {
+    list-style-type: none;
+  }
+  
+  ul li input {
+    margin-right: 3px;
+  }
